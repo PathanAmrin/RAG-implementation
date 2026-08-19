@@ -1,0 +1,4 @@
+The college starts at 9 AM.
+The library closes at 8 PM.
+The CSE department has 120 seats.
+Students can apply for leave through the student portal.
